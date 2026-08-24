@@ -1,0 +1,17 @@
+{
+  "rows": 178,
+  "features": 13,
+  "missing_values": 0,
+  "duplicates": 0,
+  "selected_k": 3,
+  "best_silhouette": 0.2848589191898987,
+  "hierarchical_silhouette": 0.2774439826952265,
+  "posthoc_ari": 0.8974949815093207,
+  "pca1": 0.3619884809992633,
+  "pca2": 0.19207490257008944,
+  "cluster_sizes": {
+    "0": 65,
+    "1": 51,
+    "2": 62
+  }
+}
